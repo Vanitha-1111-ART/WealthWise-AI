@@ -1,23 +1,18 @@
 # WealthWise-AI
 💰 WealthWise AI
 🤖 AI-Powered Avatar-Based Digital Wealth Management Platform
-
 Transforming Banking into Intelligent Wealth Management
 
 🌟 Overview
 WealthWise AI is an AI-powered digital wealth management platform designed to revolutionize personal financial advisory within banking applications.
-
 Unlike traditional banking apps that simply display account details, WealthWise AI acts as a 24×7 intelligent financial advisor, providing personalized insights, investment recommendations, financial health analysis, and goal-based wealth planning through an interactive AI avatar.
 
 🎯 Problem Statement
-
 Traditional wealth management services are fragmented, expensive, and inaccessible to many customers. Users often struggle with:
-
 Lack of personalized financial guidance
 Poor spending awareness
 Limited investment knowledge
 Difficulty in achieving financial goals
-
 WealthWise AI bridges this gap using Artificial Intelligence and Deep Learning.
 
 ✨ Key Features
@@ -117,8 +112,6 @@ AES-256 Encryption
 Secure Banking APIs
 Role-Based Access Control
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1ed3469c-d8ec-47db-a4cb-5e289182fc42" />
-
 
 💎 Why WealthWise AI?
 ✅ Personalized Financial Guidance
@@ -136,7 +129,7 @@ Role-Based Access Control
 🎯 Goal-Oriented Financial Planning
 🔒 Secure Banking Integration
 ☁ Cloud-Native Architecture
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/24a039ce-d5d5-4dee-83bd-97b18955143a" />
+
 
 
 🌍 Vision
