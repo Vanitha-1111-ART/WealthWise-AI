@@ -1,4 +1,4 @@
-# wealthwise_ai
+# wealthwise_ai 
 
 A new Flutter project.
 
