@@ -1,0 +1,38 @@
+name: wealthwise_ai
+description: "WealthWise AI - Enterprise Digital Wealth Management & Financial Planning Platform"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State Management
+  provider: ^6.1.1
+  
+  # Charts and Visualizations
+  fl_chart: ^0.66.0
+  
+  # HTTP Client
+  http: ^1.2.0
+  
+  # Local Storage & Token Security
+  flutter_secure_storage: ^9.0.0
+  
+  # Font & Typography
+  google_fonts: ^6.1.0
+  
+  # Formatting (INR currency & dates)
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
